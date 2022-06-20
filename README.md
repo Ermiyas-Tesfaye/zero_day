@@ -1,1 +1,1 @@
-# Zero day
+What does the command uname
